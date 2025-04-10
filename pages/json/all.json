@@ -1,0 +1,6 @@
+{
+    "enable": true,
+    "mentionText": "Hello everyone! Here are all the members:",
+    "errorMessage": "There was an error mentioning all users.",
+    "notGroupMessage": "This command can only be used in groups."
+}

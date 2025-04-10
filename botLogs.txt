@@ -1,0 +1,92 @@
+[2025-04-09T13:42:26.266Z] 🤖 Bot is starting...
+[2025-04-09T13:42:26.529Z] ✅ Loaded plugin: add
+[2025-04-09T13:42:26.537Z] ✅ Loaded plugin: all
+[2025-04-09T13:42:26.542Z] ✅ Loaded plugin: assign
+[2025-04-09T13:42:26.554Z] ✅ Loaded plugin: help
+[2025-04-09T13:42:26.586Z] ✅ Loaded plugin: kick
+[2025-04-09T13:42:26.598Z] ✅ Loaded plugin: link
+[2025-04-09T13:42:26.604Z] ✅ Loaded plugin: weather
+[2025-04-09T13:42:26.629Z] ✅ Loaded plugin: welcome
+[2025-04-09T13:42:29.009Z] ✅ Bot is now connected!
+[2025-04-09T13:43:12.534Z] 🤖 Bot is starting...
+[2025-04-09T13:43:12.800Z] ✅ Loaded plugin: add
+[2025-04-09T13:43:12.806Z] ✅ Loaded plugin: all
+[2025-04-09T13:43:12.809Z] ✅ Loaded plugin: assign
+[2025-04-09T13:43:12.817Z] ✅ Loaded plugin: help
+[2025-04-09T13:43:12.821Z] ✅ Loaded plugin: kick
+[2025-04-09T13:43:12.847Z] ✅ Loaded plugin: link
+[2025-04-09T13:43:12.856Z] ✅ Loaded plugin: weather
+[2025-04-09T13:43:12.864Z] ✅ Loaded plugin: welcome
+[2025-04-09T13:43:14.709Z] ✅ Bot is now connected!
+[2025-04-09T13:48:06.547Z] 🤖 Bot is starting...
+[2025-04-09T13:48:06.878Z] ✅ Loaded plugin: add
+[2025-04-09T13:48:06.883Z] ✅ Loaded plugin: all
+[2025-04-09T13:48:06.888Z] ✅ Loaded plugin: assign
+[2025-04-09T13:48:06.892Z] ✅ Loaded plugin: help
+[2025-04-09T13:48:07.006Z] ✅ Loaded plugin: kick
+[2025-04-09T13:48:07.042Z] ✅ Loaded plugin: link
+[2025-04-09T13:48:07.050Z] ✅ Loaded plugin: weather
+[2025-04-09T13:48:07.172Z] ✅ Loaded plugin: welcome
+[2025-04-09T13:48:08.601Z] 📸 Scan the QR Code below to connect your bot:
+[2025-04-09T13:48:28.711Z] 📸 Scan the QR Code below to connect your bot:
+[2025-04-09T13:48:48.744Z] 📸 Scan the QR Code below to connect your bot:
+[2025-04-09T13:49:08.798Z] 📸 Scan the QR Code below to connect your bot:
+[2025-04-09T13:49:28.827Z] 📸 Scan the QR Code below to connect your bot:
+[2025-04-09T13:49:48.847Z] 📸 Scan the QR Code below to connect your bot:
+[2025-04-09T13:50:08.867Z] 🔄 Reconnecting...
+[2025-04-09T13:50:13.877Z] 🤖 Bot is starting...
+[2025-04-09T13:50:13.920Z] ✅ Loaded plugin: add
+[2025-04-09T13:50:13.922Z] ✅ Loaded plugin: all
+[2025-04-09T13:50:13.925Z] ✅ Loaded plugin: assign
+[2025-04-09T13:50:13.927Z] ✅ Loaded plugin: help
+[2025-04-09T13:50:13.932Z] ✅ Loaded plugin: kick
+[2025-04-09T13:50:13.936Z] ✅ Loaded plugin: link
+[2025-04-09T13:50:13.939Z] ✅ Loaded plugin: weather
+[2025-04-09T13:50:14.003Z] ✅ Loaded plugin: welcome
+[2025-04-09T13:50:15.033Z] 📸 Scan the QR Code below to connect your bot:
+[2025-04-09T13:50:35.061Z] 📸 Scan the QR Code below to connect your bot:
+[2025-04-09T13:50:55.095Z] 📸 Scan the QR Code below to connect your bot:
+[2025-04-09T13:51:15.114Z] 📸 Scan the QR Code below to connect your bot:
+[2025-04-09T13:57:08.082Z] 🤖 Bot is starting...
+[2025-04-09T13:57:08.393Z] ✅ Loaded plugin: add
+[2025-04-09T13:57:08.397Z] ✅ Loaded plugin: all
+[2025-04-09T13:57:08.400Z] ✅ Loaded plugin: assign
+[2025-04-09T13:57:08.404Z] ✅ Loaded plugin: help
+[2025-04-09T13:57:08.409Z] ✅ Loaded plugin: kick
+[2025-04-09T13:57:08.436Z] ✅ Loaded plugin: link
+[2025-04-09T13:57:08.477Z] ✅ Loaded plugin: weather
+[2025-04-09T13:57:08.488Z] ✅ Loaded plugin: welcome
+[2025-04-09T13:57:09.708Z] 📸 Scan the QR Code below to connect your bot:
+[2025-04-09T13:57:10.217Z] ✅ QR Code saved as 'qr-code.png'. You can scan it from the file.
+[2025-04-09T13:57:30.172Z] 📸 Scan the QR Code below to connect your bot:
+[2025-04-09T13:57:30.298Z] ✅ QR Code saved as 'qr-code.png'. You can scan it from the file.
+[2025-04-09T13:57:50.259Z] 📸 Scan the QR Code below to connect your bot:
+[2025-04-09T13:57:50.476Z] ✅ QR Code saved as 'qr-code.png'. You can scan it from the file.
+[2025-04-09T13:58:10.456Z] 📸 Scan the QR Code below to connect your bot:
+[2025-04-09T13:58:10.665Z] ✅ QR Code saved as 'qr-code.png'. You can scan it from the file.
+[2025-04-09T13:58:30.610Z] 📸 Scan the QR Code below to connect your bot:
+[2025-04-09T13:58:30.745Z] ✅ QR Code saved as 'qr-code.png'. You can scan it from the file.
+[2025-04-09T13:58:50.699Z] 📸 Scan the QR Code below to connect your bot:
+[2025-04-09T13:58:50.758Z] ✅ QR Code saved as 'qr-code.png'. You can scan it from the file.
+[2025-04-09T13:59:31.661Z] 🤖 Bot is starting...
+[2025-04-09T13:59:31.955Z] ✅ Loaded plugin: add
+[2025-04-09T13:59:31.960Z] ✅ Loaded plugin: all
+[2025-04-09T13:59:31.986Z] ✅ Loaded plugin: assign
+[2025-04-09T13:59:32.015Z] ✅ Loaded plugin: help
+[2025-04-09T13:59:32.021Z] ✅ Loaded plugin: kick
+[2025-04-09T13:59:32.039Z] ✅ Loaded plugin: link
+[2025-04-09T13:59:32.065Z] ✅ Loaded plugin: weather
+[2025-04-09T13:59:32.071Z] ✅ Loaded plugin: welcome
+[2025-04-09T13:59:33.108Z] 📸 Scan the QR Code below to connect your bot:
+[2025-04-09T13:59:33.517Z] ✅ QR Code saved as './qr-code.png'. Open the file to scan it.
+[2025-04-09T14:01:51.880Z] 🤖 Bot is starting...
+[2025-04-09T14:01:52.178Z] ✅ Loaded plugin: add
+[2025-04-09T14:01:52.182Z] ✅ Loaded plugin: all
+[2025-04-09T14:01:52.211Z] ✅ Loaded plugin: assign
+[2025-04-09T14:01:52.232Z] ✅ Loaded plugin: help
+[2025-04-09T14:01:52.252Z] ✅ Loaded plugin: kick
+[2025-04-09T14:01:52.261Z] ✅ Loaded plugin: link
+[2025-04-09T14:01:52.267Z] ✅ Loaded plugin: weather
+[2025-04-09T14:01:52.289Z] ✅ Loaded plugin: welcome
+[2025-04-09T14:01:53.291Z] 📸 Scan the QR Code below to connect your bot:
+[2025-04-09T14:01:54.657Z] ✅ QR Code saved as './qr-code.png'. Open the file to scan it.

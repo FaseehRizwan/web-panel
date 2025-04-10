@@ -1,0 +1,40 @@
+{
+    "prefix": "!",
+    "allowedGroups": [
+        "120363418453951835@g.us",
+        "1203630yyyyyyy@g.us"
+    ],
+    "roles": {
+        "master": {
+            "allowedCommands": [
+                "kick",
+                "help",
+                "assign",
+                "weather",
+                "all",
+                "link",
+                "add"
+            ]
+        },
+        "admin": {
+            "allowedCommands": [
+                "kick",
+                "mute",
+                "help"
+            ]
+        },
+        "member": {
+            "allowedCommands": [
+                "help",
+                "weather"
+            ]
+        },
+        "vip": {
+            "allowedCommands": [
+                "kick",
+                "mute",
+                "help"
+            ]
+        }
+    }
+}

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Plugins</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>MyBot Panel</h1>
+        <nav>
+            <a href="/">Dashboard</a>
+            <a href="/about">About</a>
+            <a href="/plugins">Plugins</a>
+            <a href="/settings">Settings</a>
+        </nav>
+    </header>
+
+    <main>
+        <h2 style="margin-bottom: 20px;">🧩 Available Plugins</h2>
+        <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
+            <!-- EXAMPLE Plugins: you will manually add real ones -->
+            <a href="pages/kick.html" class="plugin-btn">Kick Command</a>
+            <a href="pages/ban.html" class="plugin-btn">Ban Command</a>
+            <a href="pages/mute.html" class="plugin-btn">Mute Command</a>
+        </div>
+    </main>
+
+    <footer>
+        &copy; 2025 MyBot Panel | All rights reserved.
+    </footer>
+
+    <script>
+        const currentPath = window.location.pathname;
+        document.querySelectorAll("nav a").forEach(link => {
+            if (link.getAttribute("href") === currentPath) {
+                link.classList.add("active");
+            }
+        });
+    </script>
+</body>
+</html>
